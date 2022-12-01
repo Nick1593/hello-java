@@ -1,2 +1,2 @@
 # hello-java
-a learning java repository
+me learning java repository
