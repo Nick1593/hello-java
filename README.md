@@ -1,2 +1,2 @@
-# hello-java
+# Hello Java
 me learning java repository
